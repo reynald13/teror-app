@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteror_app=self.webpackChunkteror_app||[]).push([[688],{9688:(e,p,a)=>{e.exports=a.p+"static/media/Backsound.7b04d31230e702cc7b0a.mp3"}}]);

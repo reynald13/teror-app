@@ -1,0 +1,14 @@
+.radio-input {
+    visibility:hidden;
+    width: 0;
+}
+
+/* Question1.css */
+/* .radio-input:checked+label {
+    background-color: #D32027;
+    color: white;
+} */
+
+.checkbox-input {
+    display: none;
+}
